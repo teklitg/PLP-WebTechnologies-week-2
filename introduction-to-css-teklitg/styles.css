@@ -1,0 +1,30 @@
+body{
+    background-color: aqua;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+form{
+    background-color: antiquewhite;
+    width: 50%;
+    margin-block: 0;
+    margin-inline: auto;
+    padding: 15px;
+    border-radius: 10px;
+}
+button{
+    background-color: rgb(11, 145, 145);
+    border-style: none;
+    padding: 8px;
+    border-radius: 7px;
+}
+table, tr , th{
+    border-collapse: collapse;
+    border-style: solid;
+    background-color: aliceblue;
+}
+
+table{
+    display: flex;
+    justify-content: center;
+}
